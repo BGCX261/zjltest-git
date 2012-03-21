@@ -1,0 +1,15 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0e\x00z\x00j\x00l\x00t\x00e\x00s\x00t)
+
+[CMake]
+BuildDirs=/mnt/server_homes/laczik/programming/zjltest/build
+CMakeDir=/usr/share/cmake-2.8/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///mnt/server_homes/laczik/programming/zjltest/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+Extra Arguments=
+ProjectRootRelative=./
+
+[Project]
+VersionControlSupport=kdevgit

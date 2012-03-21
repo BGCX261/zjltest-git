@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/zjltest.dir/main.cpp.o  -o zjltest -rdynamic 
